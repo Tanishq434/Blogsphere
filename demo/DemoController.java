@@ -16,3 +16,5 @@ public class DemoController {
         return greetingService.getMessage();
     }
 }
+
+#Progress 2: Day 2
