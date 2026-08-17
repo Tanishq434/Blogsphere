@@ -17,4 +17,3 @@ public class DemoController {
     }
 }
 
-#Progress 2: Day 2
