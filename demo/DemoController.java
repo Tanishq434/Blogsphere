@@ -9,11 +9,11 @@ public class DemoController {
 
     public DemoController(GreetingService greetingService) {
         this.greetingService = greetingService;
-    }
+    }x
 
     @GetMapping("/api/greet")
     public String greet() {
         return greetingService.getMessage();
     }
-}
+
 
